@@ -50,3 +50,11 @@ MoodifyCleanFinal/
 ✅ Stílus és UI optimalizálás  
 ✅ GitHub Pages deploy-ready  
 📅 Következő frissítés: 2025.04.24.
+
+## 🔗 Elérhető élőben:
+https://messervonschwanz.github.io/MoodifyCleanFinal
+
+
+
+![image](https://github.com/user-attachments/assets/3a67d391-dc87-4196-922b-df2d65f35c98)
+
