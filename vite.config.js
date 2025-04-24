@@ -1,10 +1,9 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
+  base: "/MoodifyCleanFinal/",
   root: "./src",
-  base: '/MoodifyCleanFinal/',
   build: {
     outDir: "../dist",
-    emptyOutDir: true
   }
 })
